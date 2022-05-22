@@ -1,24 +1,28 @@
-### Hi there 👋
-
 <!--
-**AhmedSayed2019/Ahmedsayed2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! This is an easter egg.
+Congratulations you found the first one!
+-->
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-Here are some ideas to get you started:
+<!-- # 👀 Hi stranger! 👋🏻 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤔 About me:
+
+- 🐇 Following the white rabbit
+- 🐈 Cat dad 😻
+- Professional 🐛 solver
+- 👨🏻‍💻 Full-Stack Developer
+- 💊 Coding the Matrix
+- 😍 Emoji lover
+- 🚀 One day I will see humans on Mars!
+- 🐇🥚 There's easter eggs in this profile...
+
+<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
+
+---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+
+
+⭐️ From [rodrigograca31](https://github.com/rodrigograca31)
