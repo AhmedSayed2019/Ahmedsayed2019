@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="babakoto" src="https://github.com/babakoto/babakoto/blob/main/mada.gif">
+ <!-- <img align="right" alt="babakoto" src="https://github.com/babakoto/babakoto/blob/main/mada.gif">-->
 </div>
   
   
