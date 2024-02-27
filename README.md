@@ -16,6 +16,7 @@
 
   <a href = "mailto:e.AhmedSayed.cs2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ahmedsayed2019/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/ahmedsayed2019/](https://ahmedsayed2019.github.io/)" target="_blank"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=Website&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/babakoto/babakoto/blob/main/github-contribution-grid-snake.svg)
 
